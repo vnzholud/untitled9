@@ -1,4 +1,4 @@
-package krestNullSing;
+package krestNullSwing;
 
 import javax.swing.*;
 import java.awt.*;

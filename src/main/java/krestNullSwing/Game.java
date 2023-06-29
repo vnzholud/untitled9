@@ -1,4 +1,4 @@
-package krestNullSing;
+package krestNullSwing;
 
 public class Game {
 
